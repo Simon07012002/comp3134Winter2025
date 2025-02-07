@@ -1,0 +1,256 @@
+simonvu@Simon:~$ whois Apple
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       APPLE
+
+organisation: Apple Inc.
+address:      1 Infinite Loop
+address:      Cupertino CA 95014
+address:      United States of America (the)
+
+contact:      administrative
+name:         Counsel-Trademark, Copyright and Domains
+organisation: Apple, Inc.
+address:      1 Infinite Loop
+address:      Cupertino CA 95014
+address:      United States of America (the)
+phone:        +1 408 996 1010
+fax-no:       +1 408 253 0186
+e-mail:       ngtld-apple@cscglobal.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      300 Welsh Road
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
+phone:        +1 215 706 5700
+fax-no:       +1 215 706 5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.APPLE 2a01:8840:3a:0:0:0:0:1 65.22.60.1
+nserver:      A2.NIC.APPLE 2a01:8840:3d:0:0:0:0:1 65.22.63.1
+nserver:      B0.NIC.APPLE 2a01:8840:3b:0:0:0:0:1 65.22.61.1
+nserver:      C0.NIC.APPLE 2a01:8840:3c:0:0:0:0:1 65.22.62.1
+ds-rdata:     54541 7 1 07eca60632b3a62af2be9e597d7c5b6f1bb1fc21
+ds-rdata:     54541 7 2 eb3a275c32eeab32b6f7f6a9ec1d19e327c68eaf1a55bd5b8dac634bc416e8c6
+ds-rdata:     50166 7 2 b8038b6449b548e38fc74ce04d21726c9f052213a55573256c6867aed2e6c091
+ds-rdata:     50166 7 1 20de4da26e31e393746200e709c6f4e91fe65d4f
+
+whois:        whois.nic.apple
+
+status:       ACTIVE
+remarks:      Registration information: http://www.apple.com/
+
+created:      2015-07-02
+changed:      2023-08-11
+source:       IANA
+
+simonvu@Simon:~$ whois Microsoft
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       MICROSOFT
+
+organisation: Microsoft Corporation
+address:      One Microsoft Way
+address:      Redmond WA 98052
+address:      United States of America (the)
+
+contact:      administrative
+name:         Program Manager
+organisation: Microsoft Corporation
+address:      One Microsoft Way
+address:      Redmond WA 98052
+address:      United States of America (the)
+phone:        425-706-3546
+fax-no:       425-457-2511
+e-mail:       tlddom@microsoft.com
+
+contact:      technical
+name:         TLD Registry Services Technical
+organisation: Nominet
+address:      Minerva House, Edmund Halley Road, Oxford Science Park
+address:      Oxford OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 1865 332211
+e-mail:       registrytechnical@nominet.uk
+
+nserver:      DNS1.NIC.MICROSOFT 213.248.219.132 2a01:618:403:0:0:0:0:132
+nserver:      DNS2.NIC.MICROSOFT 103.49.83.132 2401:fd80:403:0:0:0:0:132
+nserver:      DNS3.NIC.MICROSOFT 213.248.223.132 2a01:618:407:0:0:0:0:132
+nserver:      DNS4.NIC.MICROSOFT 2401:fd80:407:0:0:0:0:132 43.230.51.132
+nserver:      DNSA.NIC.MICROSOFT 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NIC.MICROSOFT 156.154.101.3 2001:502:2eda:0:0:0:0:3
+nserver:      DNSC.NIC.MICROSOFT 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSD.NIC.MICROSOFT 156.154.103.3 2610:a1:1010:0:0:0:0:3
+ds-rdata:     35775 8 2 75b42b6862ac3b32fc471d044de968df0d3e9a2b6d4ead5addba4ed42fef185a
+ds-rdata:     55012 8 2 6124fc6575fd96e99e526b792f5637653c25dc4e1e2c034c7a23fe2e2da94acf
+
+whois:
+
+status:       ACTIVE
+remarks:      Registration information: http://www.microsoft.com
+
+created:      2015-04-30
+changed:      2025-01-30
+source:       IANA
+
+simonvu@Simon:~$ whois Amazon
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       AMAZON
+
+organisation: Amazon Registry Services, Inc.
+address:      410 Terry Avenue North
+address:      Seattle WA 98109
+address:      United States of America (the)
+
+contact:      administrative
+name:         Program Manager, Registry
+organisation: Amazon Registry Services, Inc
+address:      410 Terry Avenue North
+address:      Seattle WA 98109
+address:      United States of America (the)
+phone:        +1 206 646 5990
+fax-no:       +1-206-946-7702
+e-mail:       arsi-rzm@amazon.com
+
+contact:      technical
+name:         TLD Registry Services Technical
+organisation: Nominet
+address:      Minerva House
+address:      Edmund Halley Road
+address:      Oxford Science Park
+address:      Oxford OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44.1865332211
+e-mail:       registrytechnical@nominet.uk
+
+nserver:      DNS1.NIC.AMAZON 213.248.218.90 2a01:618:402:0:0:0:0:90
+nserver:      DNS2.NIC.AMAZON 103.49.82.90 2401:fd80:402:0:0:0:0:90
+nserver:      DNS3.NIC.AMAZON 213.248.222.90 2a01:618:406:0:0:0:0:90
+nserver:      DNS4.NIC.AMAZON 2401:fd80:406:0:0:0:0:90 43.230.50.90
+nserver:      DNSA.NIC.AMAZON 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NIC.AMAZON 156.154.101.3 2001:502:2eda:0:0:0:0:3
+nserver:      DNSC.NIC.AMAZON 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSD.NIC.AMAZON 156.154.103.3 2610:a1:1010:0:0:0:0:3
+ds-rdata:     14854 8 2 4f9f1805f5689bf4af48f0fa04bef8727b83eac65a669e8bf1a5eafa83350d39
+
+whois:
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      https://www.amazonregistry.com/
+
+created:      2020-05-28
+changed:      2025-01-30
+source:       IANA
+
+simonvu@Simon:~$ whois Dell
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       DELL
+
+organisation: Dell Inc.
+address:      1 Dell Way
+address:      Round Rock TX 78682
+address:      United States of America (the)
+
+contact:      administrative
+name:         Director, Consulting & Strategy
+organisation: FairWinds Partners
+address:      1000 Potomac Street NW #350
+address:      Washington DC 20007
+address:      United States of America (the)
+phone:        +1-202-223-9252
+fax-no:       +1-202-223-9256
+e-mail:       dellregistry@fairwindspartners.com
+
+contact:      technical
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
+address:      United States of America (the)
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
+e-mail:       iana@registry.godaddy
+
+nserver:      A.NIC.DELL 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.DELL 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.DELL 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      NS1.DNS.NIC.DELL 156.154.144.47 2610:a1:1071:0:0:0:0:2f
+nserver:      NS2.DNS.NIC.DELL 156.154.145.47 2610:a1:1072:0:0:0:0:2f
+nserver:      NS3.DNS.NIC.DELL 156.154.159.47 2610:a1:1073:0:0:0:0:2f
+ds-rdata:     3580 8 2 44c5f896b1f96a4b5f85385dda8648e5f050d94cf53b244d243caa0877a5a3c0
+
+whois:
+
+status:       ACTIVE
+remarks:      Registration information: http://www.dell.com
+
+created:      2015-04-30
+changed:      2024-05-11
+source:       IANA
+
+simonvu@Simon:~$ whois Samsung
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SAMSUNG
+
+organisation: SAMSUNG SDS CO., LTD
+address:      (Daerung Post Tower 3, Guro-dong) #1101 ,27 , Digital-ro 34-gil, Guro-gu
+address:      Seoul
+address:      Korea (the Republic of)
+
+contact:      administrative
+name:         Yujeong Shin
+organisation: Whois Corp.
+address:      (Daerung Post Tower 3, Guro-dong) #1101 ,27 , Digital-ro 34-gil, Guro-gu
+address:      Seoul
+address:      Korea (the Republic of)
+phone:        +82 70 4317 8217
+fax-no:       +82 2 2028 0011
+e-mail:       info@yesnic.com
+
+contact:      technical
+name:         Junmyoung Oh
+organisation: Whois Corp.
+address:      (Daerung Post Tower 3, Guro-dong) #1101 ,27 , Digital-ro 34-gil, Guro-gu
+address:      Seoul
+address:      Korea (the Republic of)
+phone:        +82 70 4310 9630
+fax-no:       +82 2 2028 0011
+e-mail:       info@yesnic.com
+
+nserver:      N1-A1.AKA-NS.NET 23.2.10.1 2600:1405:4800:0:0:0:0:1
+nserver:      N1-A13.AKA-NS.NET 184.29.150.1 2600:1405:400:0:0:0:0:1
+nserver:      N1-A20.AKA-NS.NET 184.29.154.1 2600:1405:2400:0:0:0:0:1
+nserver:      N1-A26.AKA-NS.NET 184.29.157.1 2600:1405:3c00:0:0:0:0:1
+nserver:      N1-A4.AKA-NS.NET 23.59.162.1 2600:1405:7800:0:0:0:0:1
+nserver:      N1-A7.AKA-NS.NET 2600:1405:a800:0:0:0:0:1 96.16.208.1
+nserver:      NS1.SAMSUNG.CENTRALNIC-DNS.COM 194.169.218.112 2001:67c:13cc:0:0:0:1:112
+nserver:      NS2.SAMSUNG.CENTRALNIC-DNS.COM 185.24.64.112 2a04:2b00:13cc:0:0:0:1:112
+nserver:      NS3.SAMSUNG.CENTRALNIC-DNS.COM 212.18.248.112 2a04:2b00:13ee:0:0:0:0:112
+nserver:      NS4.SAMSUNG.CENTRALNIC-DNS.COM 212.18.249.112 2a04:2b00:13ff:0:0:0:0:112
+ds-rdata:     19194 7 2 144b461cb8ad9212307c53173ef72139a418eab09997fc366484335d0aae91fe
+
+whois:        whois.nic.samsung
+
+status:       ACTIVE
+remarks:      Registration information: http://samsungregistry.com
+
+created:      2014-10-30
+changed:      2025-01-22
+source:       IANA

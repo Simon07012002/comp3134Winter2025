@@ -1,0 +1,23 @@
+IP address				Type	Hosted by					Location
+----------------------------------------------------------------------------------------------------------------------------------
+198.101.161.134				IPv4	Hosted by Rackspace Hosting Rackspace Hosting	United States of America (marshalls.com)
+----------------------------------------------------------------------------------------------------------------------------------
+52.6.127.76				IPv4	Hosted by Amazon.com, Inc. Amazon.com, Inc.	United States of America (sony.com)
+44.218.59.236				IPv4	Hosted by Amazon.com, Inc. Amazon.com, Inc.	United States of America (sony.com)
+----------------------------------------------------------------------------------------------------------------------------------
+142.251.10.93				IPv4	Hosted by Google LLC Google LLC			Singapore 	(youtube.com)
+142.251.10.91				IPv4	Hosted by Google LLC Google LLC			Singapore	(youtube.com)
+142.251.10.136				IPv4	Hosted by Google LLC Google LLC			Singapore	(youtube.com)
+142.251.10.190				IPv4	Hosted by Google LLC Google LLC			Singapore	(youtube.com)
+2404:6800:4003:c04::5d			IPv6	Hosted by Google LLC Google LLC			Singapore	(youtube.com)
+2404:6800:4003:c04::be			IPv6	Hosted by Google LLC Google LLC			Singapore	(youtube.com)
+2404:6800:4003:c04::5b			IPv6	Hosted by Google LLC Google LLC			Singapore	(youtube.com)
+2404:6800:4003:c04::88			IPv6	Hosted by Google LLC Google LLC			Singapore	(youtube.com)
+----------------------------------------------------------------------------------------------------------------------------------
+57.144.152.1				IPv4	Hosted by Facebook, Inc. Facebook, Inc.		Singapore 	(facebook.com)
+2a03:2880:f10c:283:face:b00c:0:25de	IPv6	Hosted by Facebook, Inc. Facebook, Inc.		Singapore	(facebook.com)
+----------------------------------------------------------------------------------------------------------------------------------
+104.244.42.129				IPv4	Hosted by Twitter Inc. Twitter Inc.	United States of America 	(twitter.com)
+104.244.42.1				IPv4	Hosted by Twitter Inc. Twitter Inc.	United States of America 	(twitter.com)
+104.244.42.193				IPv4	Hosted by Twitter Inc. Twitter Inc.	United States of America	(twitter.com)
+104.244.42.65				IPv4	Hosted by Twitter Inc. Twitter Inc.	United States of America 	(twitter.com)
